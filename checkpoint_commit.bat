@@ -14,6 +14,3 @@ echo %num% > %FILE%
 git add .
 git commit -m "checkpoint %num%"
 
-echo.
-echo Commit created: checkpoint %num%
-pause
